@@ -7,7 +7,7 @@
 
 Скачиваем проект
 
-`git clone https://github.com/Dnnd/solitaire_cipher.git`
+`git clone https://github.com/Dnnd/solitaire_cipher.git && cd solitaire_cipher`
 
 Создаем виртуальное окружение
 
