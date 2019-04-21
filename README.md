@@ -5,6 +5,9 @@
 
 Бинарники выкладываются сюда https://github.com/Dnnd/solitaire_cipher/releases
 
+Дополнительно нужно установить [graphviz](https://www.graphviz.org/download/)
+
+
 ## Установка
 
 Скачиваем проект
@@ -22,6 +25,8 @@
 Устанавливаем зависимости
 
 `pip install -r requirements.txt`
+
+Дополнительно нужно установить [graphviz](https://www.graphviz.org/download/)
 
 ## Запуск
 
